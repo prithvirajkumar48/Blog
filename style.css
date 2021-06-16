@@ -319,11 +319,12 @@ footer{
     background: #fff;
     color: var(--exDark);
 }
-.footer span{
-    margin-top: 1rem;
-    display: block;
-    font-family: var(--Playfair);
-    letter-spacing: 2px;
+.copyrightText{
+    width: 86.85%;
+    background: var(--exDark);
+    padding: 9px 100px;
+    text-align: center;
+    color: white;
 }
 
 /* Media Queries */
